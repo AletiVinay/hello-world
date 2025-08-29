@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter First Name</b></label>
-    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter latest First Name" name="Name" id="Name" required>
     <br>
 
     <label for="Name"><b>Enter Middle Name</b></label>
@@ -13,7 +13,7 @@
     <br>
 
     <label for="Name"><b>Enter Last Name</b></label>
-    <input type="text" placeholder="Enter Last Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter latest Last Name" name="Name" id="Name" required>
     <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
