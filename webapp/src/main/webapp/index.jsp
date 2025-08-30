@@ -1,20 +1,17 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Register Here for DevOps Learning</h1>
-    <p>Please fill the form to create an account in Devops Learning.</p>
+    <h1>New user Register for DevOps Learning</h1>
+    <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter First Name</b></label>
-    <input type="text" placeholder="Enter latest First Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter first Name</b></label>
+    <input type="text" placeholder="Enter first Name" name="Name" id="Name" required>
+    <br>
+    
+    <label for="Name"><b>Enter last Name</b></label>
+    <input type="text" placeholder="Enter last Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Name"><b>Enter Middle Name</b></label>
-    <input type="text" placeholder="Enter latest Middle Name" name="Name" id="Name" required>
-    <br>
-
-    <label for="Name"><b>Enter Last Name</b></label>
-    <input type="text" placeholder="Enter latest Last Name" name="Name" id="Name" required>
-    <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
@@ -29,7 +26,7 @@
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Renter Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
@@ -39,7 +36,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, we will meet again in sometime </h1>
+   <h1> Thankyou, Happy Learning, Visit again </h1>
 
-  
-</form>
+  </form>
